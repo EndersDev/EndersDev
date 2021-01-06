@@ -1,4 +1,6 @@
-Computador EndersDev
+#EndersDev Profile 
+
+![computador](./pasta/computador.png)
 
 Hi, Filipe here. Or you can call me Ender (comum nickname)
 I am an Eletronic Technitian, programmer from IOT to web.
