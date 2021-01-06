@@ -1,24 +1,29 @@
-#EndersDev Profile 
- 
-<img src="./pasta/computador.jpg" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
+
+
+
 
 <p align="left"> 
-  Hi, Filipe here. Or you can call me Ender (comum nickname)
+  <strong>Hi, Filipe here.</strong>
+
+
+<p align="left"> 
+<img src="./pasta/computador.jpg" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
+Or you can call me Ender (comum nickname)
 I am an Eletronic Technitian, programmer from IOT to web.
 I am studying  web development throught my projects down here.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>C++, JS, Python and Firebase.<strong/>
+  🦄 Skills: <strong>C++, JS, Python and Firebase.</strong>
 </p>
 
 <p align="left">
-🚀 Skills in progrss:<strong> Vue, manimlib, Faunadb, SQL+ and CSS.<strong/>
+🚀 Skills in progrss:<strong> Vue, manimlib, Faunadb, SQL+ and CSS.</strong>
 </p>
 
 🧰 Tools: Visual Studio Code, Figma, Notion, Git and GitHub.
 <p align="left">
-  ✉   Want to talk to me about projects or any douts? don't hesitate. 
+  📫  Want to talk to me about projects or any douts? don't hesitate. 
 </p>
 <!-- 
 <p align="left">
