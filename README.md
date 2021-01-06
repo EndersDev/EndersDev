@@ -1,6 +1,6 @@
 
 
-<img src="./pasta/computer_on_a_chip.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
+<img src="./pasta/Computer_on_a_Chip.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   <strong>Hi, Filipe here.</strong>
