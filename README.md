@@ -1,6 +1,6 @@
 #EndersDev Profile 
  
-<img src="./pasta/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="./pasta/computador.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Hi, Filipe here. Or you can call me Ender (comum nickname)
