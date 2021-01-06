@@ -4,8 +4,7 @@
 
 <p align="left"> 
   <strong>Hi, Filipe here.</strong>
-  Or you can call me Ender (comum nickname).
-  
+  Or you can call me Ender (comum nickname).              
   I am an Eletronic Technitian, programmer from IOT to web.
   </p>
 
