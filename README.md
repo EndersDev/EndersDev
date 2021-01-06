@@ -4,13 +4,13 @@
 
 <p align="left"> 
   <strong>Hi, Filipe here.</strong>
+  Or you can call me Ender (comum nickname)
+</p>
 
 
 <p align="left"> 
-
-Or you can call me Ender (comum nickname)
-I am an Eletronic Technitian, programmer from IOT to web.
-I am studying  web development throught my projects down here.
+  I am an Eletronic Technitian, programmer from IOT to web.
+  I am studying  web development throught my projects down here.
 </p>
 
 <p align="left">
@@ -21,7 +21,10 @@ I am studying  web development throught my projects down here.
 🚀 Skills in progrss:<strong> Vue, manimlib, Faunadb, SQL+ and CSS.</strong>
 </p>
 
+<p align="left">
 🧰 Tools: Visual Studio Code, Figma, Notion, Git and GitHub.
+</p>
+
 <p align="left">
   📫  Want to talk to me about projects or any douts? don't hesitate. 
 </p>
