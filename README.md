@@ -4,11 +4,9 @@
 
 <p align="left"> 
   <strong>Hi, Filipe here.</strong>
-  Or you can call me Ender (comum nickname).</p>
-
-
-<p align="left">    
-  I am an Eletronic Technitian, programmer from IOT to web.          I am studying  web development throught my projects down here.
+  Or you can call me Ender (comum nickname).<br>
+  I am an Eletronic Technitian, programmer from IOT to web.<br>
+  I am studying  web development throught my projects down here.
 </p>
 
 <p align="left">
